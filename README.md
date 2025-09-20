@@ -2,7 +2,7 @@
 A basic text editor built from scratch using C++ and SDL2, designed specifically for C++ development with advanced syntax highlighting, file management, and integrated development features.
 
 ## 🚀 Features
--**Real-time Color Coding For C++ Syntax** including keywords, comments, strings, numbers, and operators  
+-**Real-time Color Coding For C++ Syntax:** including keywords, comments, strings, numbers, and operators  
 -**File System Integration:** Complete file browser with tree view navigation  
 -**Unlimited Undo/Redo**  
 -**Copy/Paste/Cut Support With Text Selection**  
@@ -13,9 +13,9 @@ A basic text editor built from scratch using C++ and SDL2, designed specifically
 
 ## 🛠️ Built With
 [C++](https://isocpp.org/)  
-[SDL2](https://www.libsdl.org/): Cross-platform graphics and window management  
-[SDL2_ttf](https://github.com/libsdl-org/SDL_ttf): TrueType font rendering  
-[SDL2_image](https://github.com/libsdl-org/SDL_image): PNG image loading  
-[C++ Standard Regex](https://en.cppreference.com/w/cpp/regex): Advanced syntax highlighting patterns  
-[Windows API](https://docs.microsoft.com/en-us/windows/win32/api/): Native file dialogs (IFileDialog)  
-[STL Containers](https://en.cppreference.com/w/cpp/container): Vectors, maps, strings for data management  
+[SDL2:](https://www.libsdl.org/) Cross-platform graphics and window management  
+[SDL2_ttf:](https://github.com/libsdl-org/SDL_ttf) TrueType font rendering  
+[SDL2_image:](https://github.com/libsdl-org/SDL_image) PNG image loading  
+[C++ Standard Regex:](https://en.cppreference.com/w/cpp/regex) Advanced syntax highlighting patterns  
+[Windows API:](https://docs.microsoft.com/en-us/windows/win32/api/) Native file dialogs (IFileDialog)  
+[STL Containers:](https://en.cppreference.com/w/cpp/container) Vectors, maps, strings for data management  
