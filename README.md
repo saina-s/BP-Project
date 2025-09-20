@@ -1,8 +1,9 @@
 # C++ Text Editor With SDL2
 A basic text editor built from scratch using C++ and SDL2, designed specifically for C++ development with advanced syntax highlighting, file management, and integrated development features.  
-![light background](./raw/lbg.png)
-![dark background](./raw/dbg.png)
-
+<p align="center">
+  <img src="./raw/lbg.png" width="45%" alt="Light Theme">
+  <img src="./raw/dbg.png" width="45%" alt="Dark Theme">
+</p>
 
 ## 🚀 Features
 -**Real-time Color Coding For C++ Syntax:** including keywords, comments, strings, numbers, and operators  
