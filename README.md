@@ -18,4 +18,17 @@ A basic text editor built from scratch using C++ and SDL2, designed specifically
 [SDL2_image:](https://github.com/libsdl-org/SDL_image) PNG image loading  
 [C++ Standard Regex:](https://en.cppreference.com/w/cpp/regex) Advanced syntax highlighting patterns  
 [Windows API:](https://docs.microsoft.com/en-us/windows/win32/api/) Native file dialogs (IFileDialog)  
-[STL Containers:](https://en.cppreference.com/w/cpp/container) Vectors, maps, strings for data management  
+[STL Containers:](https://en.cppreference.com/w/cpp/container) Vectors, maps, strings for data management
+
+## ⌨️ Keyboard Shortcuts
+| Shortcut | Action |	Description |
+| --- | --- | --- |
+| Ctrl+S	| Save |	Save current file |
+| Ctrl+Z	| Undo	| Reverse last action |
+| Ctrl+Y	| Redo	| Restore undone action |
+| Ctrl+G |	Go to Line |	Jump to specific line number |
+| Ctrl+A	| Select All	| Select entire document |
+| Ctrl+C	| Copy	| Copy selected text |
+| Ctrl+V	| Paste	| Paste from clipboard |
+| Ctrl+X	| Cut	| Cut selected text |
+| Tab	| Indent |	Insert 4 spaces |
