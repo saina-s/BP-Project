@@ -32,3 +32,4 @@ A basic text editor built from scratch using C++ and SDL2, designed specifically
 | Ctrl+V	| Paste	| Paste from clipboard |
 | Ctrl+X	| Cut	| Cut selected text |
 | Tab	| Indent |	Insert 4 spaces |
+
