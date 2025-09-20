@@ -38,6 +38,6 @@ A basic text editor built from scratch using C++ and SDL2, designed specifically
 | Tab	| Indent |	Insert 4 spaces |
 
 ## 👥 Authors
-*Saina Soltani - @saina-s
-*Zeinab Mahmoudian - @zaynabmahmoudian
+*Saina Soltani - <@saina-s>  
+*Zeinab Mahmoudian - <@zaynabmahmoudian>
 
