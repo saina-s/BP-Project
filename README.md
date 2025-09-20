@@ -11,7 +11,7 @@ A basic text editor built from scratch using C++ and SDL2, designed specifically
 -**Auto-completion:** Intelligent bracket and parenthesis completion  
 -**Project Management:** Complete project save/load functionality  
 
-##🛠️ Built With
+## 🛠️ Built With
 -![C++](https://isocpp.org/)  
 -![SDL2](https://www.libsdl.org/): Cross-platform graphics and window management  
 -![SDL2_ttf](https://github.com/libsdl-org/SDL_ttf): TrueType font rendering  
